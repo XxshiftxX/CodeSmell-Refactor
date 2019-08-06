@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RefactorCodeSmellStudy
+namespace RefactorCodeSmellStudy.Change_Preventers
 {
-    class Divergent_Change
+    class Shotgun_Surgery
     {
-
     }
 }
