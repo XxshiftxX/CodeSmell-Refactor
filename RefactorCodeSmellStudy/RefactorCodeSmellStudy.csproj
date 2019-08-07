@@ -41,10 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PrimitiveObsession.cs" />
+    <Compile Include="Bloaters\Data Clumps.cs" />
+    <Compile Include="Bloaters\PrimitiveObsession.cs" />
+    <Compile Include="Change Preventers\Divergnet Change.cs" />
+    <Compile Include="Change Preventers\Parallel Inheritance Hierarchies.cs" />
+    <Compile Include="Change Preventers\Shotgun Surgery.cs" />
+    <Compile Include="OOAbusers\AlternativeClassesWithDifferentInterfaces.cs" />
+    <Compile Include="OOAbusers\Refused Bequest.cs" />
+    <Compile Include="OOAbusers\Temporary Field.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Refused Bequest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
